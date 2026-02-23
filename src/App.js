@@ -1,7 +1,7 @@
 import React from "react";
 import { UserProvider } from "./context/UserContext";
 import MainComponent from "./components/MainComponent";
-import "./styles/app.css";
+import "./App.css";
 
 function App() {
   return (
